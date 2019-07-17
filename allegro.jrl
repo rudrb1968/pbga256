@@ -1,87 +1,36 @@
-\t (00:00:46) allegro 16.6 S034 (v16-6-112CQ) Windows 32
-\t (00:00:46)     Journal start - Wed Jul 17 09:19:02 2019
-\t (00:00:46)         Host=USER-PC User=user Pid=5464 CPUs=4
-\t (00:00:46) CmdLine= allegro.exe -p .
-\t (00:00:46) 
-\t (00:00:46) Starting new design...
-\i (00:00:47) trapsize 1442
-\i (00:00:47) trapsize 1415
-\i (00:00:47) trapsize 1442
-\i (00:00:47) trapsize 1673
-\i (00:00:47) trapsize 2685
-\i (00:00:47) trapsize 2685
-\i (00:00:47) package symbol wizard 
-\i (00:00:47) generaledit 
-   (00:00:50) Loading cmds.cxt 
-   (00:00:50) Loading axlcore.cxt 
-\i (00:00:50) setwindow form.sym_wizard
-\i (00:00:50) FORM sym_wizard bga YES 
-\i (00:00:51) FORM sym_wizard wiz_next  
-\i (00:00:53) FORM sym_wizard load_template  
-\t (00:00:53) Opening existing design...
-\i (00:00:53) fillin yes 
-\t (00:00:53) Grids are drawn 200, 200 apart for enhanced viewability.
-\i (00:00:53) setwindow pcb
-\i (00:00:53) trapsize 211
-\d (00:00:53) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
-\i (00:00:54) setwindow form.sym_wizard
-\i (00:00:54) FORM sym_wizard wiz_next  
-\i (00:00:55) FORM sym_wizard pack_units Millimeter 
-\i (00:00:56) FORM sym_wizard pack_units_create Millimeter 
-\i (00:00:57) FORM sym_wizard wiz_next  
-\t (00:02:20) Grids are drawn 400, 400 apart for enhanced viewability.
-\i (00:02:20) setwindow pcb
-\i (00:02:20) trapsize 380
-\i (00:02:21) trapsize 356
-\i (00:03:19) setwindow form.sym_wizard
-\i (00:03:19) FORM sym_wizard bga_md 16 
-\i (00:03:31) FORM sym_wizard bga_me 16 
-\i (00:03:31) FORM sym_wizard wiz_next  
-\i (00:03:39) FORM sym_wizard pin_numbering_field Letter Right Number Up 
-\i (00:03:41) FORM sym_wizard pin_numbering_field Letter Right Number Down 
-\i (00:03:45) FORM sym_wizard pin_numbering_field Number Right Letter Up 
-\i (00:03:47) FORM sym_wizard pin_numbering_field Number Left Letter Down 
-\i (00:03:53) FORM sym_wizard wiz_next  
-\i (00:04:10) FORM sym_wizard pga_ev 1.000 
-\i (00:04:20) FORM sym_wizard pga_eh 1.000 
-\i (00:04:32) FORM sym_wizard pga_width 15.000 
-\i (00:04:56) FORM sym_wizard pga_len 15.000 
-\i (00:04:56) FORM sym_wizard wiz_next  
-\i (00:04:57) FORM sym_wizard default_pad_browse  
-\i (00:17:24) fillin "menu_cancel"
-\i (00:17:25) FORM sym_wizard wiz_back  
-\i (00:17:30) FORM sym_wizard pga_width 17.000 
-\i (00:17:31) FORM sym_wizard pga_len 17.000 
-\i (00:17:31) FORM sym_wizard wiz_next  
-\i (00:17:41) FORM sym_wizard default_pad_browse  
-\i (00:18:32) fillin "Pad55cir25"
-\i (00:18:34) FORM sym_wizard wiz_next  
-\i (00:18:34) FORM sym_wizard wiz_next  
-\i (00:18:35) FORM sym_wizard wiz_finish  
-\w (00:18:35) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:18:35) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
-\i (00:18:35) setwindow pcb
-\i (00:18:35) trapsize 9042
-\t (00:18:35) Performing DRC...
-\t (00:18:35) No DRC errors detected.
-\w (00:18:35) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:18:35) trapsize 9042
-\i (00:18:35) trapsize 986
-\i (00:18:35) trapsize 197
-\i (00:18:35) trapsize 197
-\t (00:18:35) Creating package symbol 'C:/Users/user/Desktop/exam/pbga_lib.psm'.
-\t (00:18:35) Starting Create symbol...
-\i (00:18:36) generaledit 
-\i (00:18:38) zoom in 1 
-\i (00:18:38) setwindow pcb
-\i (00:18:38) zoom in 1.680 -1.280
-\i (00:18:38) trapsize 99
-\i (00:18:39) zoom out 1 
-\i (00:18:39) setwindow pcb
-\i (00:18:39) zoom out 1.936 -0.392
-\i (00:18:39) trapsize 197
-\i (00:18:41) new 
-\e (00:18:41) Do you want to save the changes you made to C:/Users/user/Desktop/exam/pbga_lib.dra?
-\i (00:18:42) fillin no 
-\i (00:19:30) newdrawfillin "pbga256-17.dra" "Package Symbol (Wizard)"
-\t (00:19:30)     Journal end - Wed Jul 17 09:37:45 2019
+\t (00:00:28) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:28)     Journal start - Wed Jul 17 10:44:31 2019
+\t (00:00:28)         Host=USER-PC User=user Pid=6820 CPUs=4
+\t (00:00:28) CmdLine= allegro.exe -p .
+\t (00:00:28) 
+\d (00:00:28) Design opened: C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.dra
+\i (00:00:28) generaledit 
+\i (00:00:30) open 
+\i (00:00:31) fillin "pbga256-27.dra"
+\t (00:00:31) Opening existing design...
+\i (00:00:31) trapsize 254
+\d (00:00:31) Design opened: C:/Users/user/Desktop/exam/pbga_lib/pbga256-27.dra
+\i (00:00:31) generaledit 
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in -2.675 3.299
+\i (00:00:33) trapsize 127
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -2.650 3.299
+\i (00:00:34) trapsize 254
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -2.650 3.300
+\i (00:00:34) trapsize 507
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in -19.899 21.415
+\i (00:00:52) trapsize 254
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in -19.899 21.416
+\i (00:00:52) trapsize 127
+\i (00:00:53) new 
+\i (00:01:20) newdrawfillin "route1.brd" "Board"
+\t (00:01:20)     Journal end - Wed Jul 17 10:45:23 2019
