@@ -1,118 +1,42 @@
-\t (00:01:35) allegro 16.6 S034 (v16-6-112CQ) Windows 32
-\t (00:01:35)     Journal start - Wed Jul 17 11:01:18 2019
-\t (00:01:35)         Host=USER-PC User=user Pid=7120 CPUs=4
-\t (00:01:35) CmdLine= allegro.exe -p .
-\t (00:01:35) 
-\t (00:01:35) Starting new design...
-\i (00:01:35) trapsize 2685
-\i (00:01:35) trapsize 2685
-\i (00:01:35) package symbol wizard 
-\i (00:01:35) generaledit 
-   (00:01:36) Loading cmds.cxt 
-   (00:01:36) Loading axlcore.cxt 
-\i (00:01:36) setwindow form.sym_wizard
-\i (00:01:36) FORM sym_wizard soic YES 
-\i (00:01:36) FORM sym_wizard plcc YES 
-\i (00:01:38) FORM sym_wizard wiz_next  
-\i (00:03:07) FORM sym_wizard load_template  
-\t (00:03:07) Opening existing design...
-\i (00:03:08) fillin yes 
-\t (00:03:08) Grids are drawn 200, 200 apart for enhanced viewability.
-\i (00:03:08) setwindow pcb
-\i (00:03:08) trapsize 211
-\d (00:03:08) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
-\i (00:03:08) setwindow form.sym_wizard
-\i (00:03:08) FORM sym_wizard wiz_next  
-\i (00:03:10) FORM sym_wizard pack_units Millimeter 
-\i (00:03:11) FORM sym_wizard pack_units_create Millimeter 
-\i (00:03:11) FORM sym_wizard wiz_next  
-\i (00:03:13) FORM sym_wizard qfp_pin_count_v 16 
-\i (00:03:15) FORM sym_wizard qfp_pin_count_h 16 
-\i (00:03:15) FORM sym_wizard qfp_pin1_corner YES 
-\i (00:03:18) FORM sym_wizard wiz_next  
-\i (00:03:32) FORM sym_wizard qfp_e1 16.000 
-\i (00:03:35) FORM sym_wizard qfp_e2 16.000 
-\i (00:03:49) FORM sym_wizard qfp_width 14.000 
-\i (00:03:57) FORM sym_wizard qfp_len 14.000 
-\i (00:03:57) FORM sym_wizard wiz_next  
-\i (00:03:58) FORM sym_wizard default_pad_browse  
-\i (00:05:54) fillin "Smd50rec12"
-\i (00:05:56) FORM sym_wizard wiz_next  
-\i (00:05:56) FORM sym_wizard wiz_next  
-\i (00:05:57) FORM sym_wizard wiz_finish  
-\w (00:05:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:05:57) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
-\i (00:05:57) setwindow pcb
-\i (00:05:57) trapsize 5371
-\t (00:05:57) Performing DRC...
-\t (00:05:57) No DRC errors detected.
-\w (00:05:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:05:57) trapsize 5371
-\i (00:05:57) trapsize 758
-\i (00:05:57) trapsize 202
-\i (00:05:57) trapsize 202
-\i (00:05:58) fillin yes 
-\t (00:05:58) Creating package symbol 'C:/Users/user/Desktop/exam/pbga_lib/pbga_lib.psm'.
-\t (00:05:58) Starting Create symbol...
-\i (00:05:58) generaledit 
-\i (00:05:59) zoom in 1 
-\i (00:05:59) setwindow pcb
-\i (00:05:59) zoom in -1.960 3.046
-\i (00:05:59) trapsize 101
-\i (00:06:00) zoom in 1 
-\i (00:06:00) setwindow pcb
-\i (00:06:00) zoom in -0.019 3.450
-\i (00:06:00) trapsize 51
-\i (00:06:01) zoom out 1 
-\i (00:06:01) setwindow pcb
-\i (00:06:01) zoom out 1.052 4.037
-\i (00:06:01) trapsize 101
-\i (00:06:02) zoom in 1 
-\i (00:06:02) setwindow pcb
-\i (00:06:02) zoom in -9.036 4.219
-\i (00:06:02) trapsize 51
-\i (00:06:02) zoom in 1 
-\i (00:06:02) setwindow pcb
-\i (00:06:02) zoom in -8.500 4.168
-\i (00:06:02) trapsize 25
-\i (00:06:03) zoom in 1 
-\i (00:06:03) setwindow pcb
-\i (00:06:03) zoom in -8.768 4.325
-\i (00:06:03) trapsize 13
-\i (00:06:04) zoom out 1 
-\i (00:06:04) setwindow pcb
-\i (00:06:04) zoom out -8.783 4.262
-\i (00:06:04) trapsize 25
-\i (00:06:04) zoom out 1 
-\i (00:06:04) setwindow pcb
-\i (00:06:04) zoom out -8.782 4.262
-\i (00:06:04) trapsize 51
-\i (00:06:04) zoom out 1 
-\i (00:06:04) setwindow pcb
-\i (00:06:04) zoom out -8.732 4.181
-\i (00:06:04) trapsize 101
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -6.972 2.523
-\i (00:06:05) trapsize 202
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -10.005 2.239
-\i (00:06:05) trapsize 366
-\i (00:06:06) zoom in 1 
-\i (00:06:06) setwindow pcb
-\i (00:06:06) zoom in 0.167 -3.268
-\i (00:06:06) trapsize 183
-\i (00:06:14) zoom in 1 
-\i (00:06:14) setwindow pcb
-\i (00:06:14) zoom in 0.936 6.804
-\i (00:06:14) trapsize 92
-\i (00:06:15) zoom out 1 
-\i (00:06:15) setwindow pcb
-\i (00:06:15) zoom out 0.424 6.640
-\i (00:06:15) trapsize 183
-\i (00:07:37) exit 
-\e (00:07:37) Do you want to save the changes you made to C:/Users/user/Desktop/exam/pbga_lib/pbga_lib.dra?
-\i (00:07:39) fillin yes 
-\t (00:07:39) Symbol 'pbga_lib.psm' created.
-\t (00:07:39)     Journal end - Wed Jul 17 11:07:23 2019
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Wed Jul 17 11:48:34 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=6996 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: c:/Users/user/Desktop/exam/pbga_lib/atmega2560.dra
+\i (00:00:04) trapsize 50
+\i (00:00:04) trapsize 49
+\i (00:00:05) trapsize 50
+\i (00:00:05) trapsize 51
+\i (00:00:05) trapsize 51
+\i (00:00:05) generaledit 
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -6.216 -7.493
+\i (00:00:06) trapsize 25
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -6.216 -7.497
+\i (00:00:07) trapsize 51
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -6.215 -7.498
+\i (00:00:07) trapsize 102
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -6.501 -7.804
+\i (00:00:07) trapsize 204
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -8.052 -1.194
+\i (00:00:08) trapsize 102
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -8.052 -1.194
+\i (00:00:08) trapsize 51
+\i (00:00:14) new 
+\i (00:00:21) newdrawfillin "atmega2560.dra" "Package Symbol (Wizard)"
+\t (00:00:21)     Journal end - Wed Jul 17 11:48:52 2019
