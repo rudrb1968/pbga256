@@ -1,0 +1,916 @@
+\t (00:19:30) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:19:30)     Journal start - Wed Jul 17 09:37:45 2019
+\t (00:19:30)         Host=USER-PC User=user Pid=5464 CPUs=4
+\t (00:19:30) CmdLine= allegro.exe -p .
+\t (00:19:30) 
+\t (00:19:30) Starting new design...
+\i (00:19:30) trapsize 510
+\i (00:19:30) trapsize 510
+\i (00:19:30) package symbol wizard 
+\i (00:19:30) generaledit 
+\i (00:19:31) setwindow form.sym_wizard
+\i (00:19:31) FORM sym_wizard bga YES 
+\i (00:19:32) FORM sym_wizard rca_th YES 
+\i (00:19:32) FORM sym_wizard rca_smd YES 
+\i (00:19:33) FORM sym_wizard bga YES 
+\i (00:19:33) FORM sym_wizard plcc YES 
+\i (00:19:34) FORM sym_wizard bga YES 
+\i (00:19:35) FORM sym_wizard wiz_next  
+\i (00:19:36) FORM sym_wizard load_template  
+\t (00:19:36) Opening existing design...
+\i (00:19:36) fillin yes 
+\t (00:19:37) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:19:37) setwindow pcb
+\i (00:19:37) trapsize 356
+\d (00:19:37) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:19:38) setwindow form.sym_wizard
+\i (00:19:38) FORM sym_wizard wiz_next  
+\i (00:19:40) FORM sym_wizard pack_units Micron 
+\i (00:19:40) FORM sym_wizard pack_units Millimeter 
+\i (00:19:42) FORM sym_wizard pack_units_create Millimeter 
+\i (00:19:42) FORM sym_wizard wiz_next  
+\i (00:19:45) FORM sym_wizard bga_md 16 
+\i (00:19:47) FORM sym_wizard bga_me 16 
+\i (00:19:47) FORM sym_wizard wiz_next  
+\i (00:19:49) FORM sym_wizard pin_numbering_field Number Left Letter Down 
+\i (00:19:51) FORM sym_wizard wiz_next  
+\i (00:19:56) FORM sym_wizard pga_ev 1.000 
+\i (00:19:57) FORM sym_wizard pga_eh 1.000 
+\i (00:19:58) FORM sym_wizard pga_width 17.000 
+\i (00:19:59) FORM sym_wizard pga_len 17.000 
+\i (00:19:59) FORM sym_wizard wiz_next  
+\i (00:20:00) FORM sym_wizard default_pad_browse  
+\i (00:24:20) fillin "Smd60rec20"
+\i (00:24:21) FORM sym_wizard wiz_next  
+\i (00:24:21) FORM sym_wizard wiz_next  
+\i (00:24:22) FORM sym_wizard wiz_finish  
+\w (00:24:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:24:22) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:24:22) setwindow pcb
+\i (00:24:22) trapsize 9042
+\t (00:24:22) Performing DRC...
+\t (00:24:22) No DRC errors detected.
+\w (00:24:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:24:22) trapsize 9042
+\i (00:24:22) trapsize 986
+\i (00:24:22) trapsize 197
+\i (00:24:22) trapsize 197
+\t (00:24:22) Creating package symbol 'C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.psm'.
+\t (00:24:22) Starting Create symbol...
+\i (00:24:23) generaledit 
+\i (00:24:24) zoom in 1 
+\i (00:24:24) setwindow pcb
+\i (00:24:24) zoom in -5.896 -6.054
+\i (00:24:24) trapsize 99
+\i (00:24:25) trapsize 38
+\i (00:24:26) zoom out 1 
+\i (00:24:26) setwindow pcb
+\i (00:24:26) zoom out -2.687 -8.108
+\i (00:24:26) trapsize 76
+\i (00:24:26) zoom in 1 
+\i (00:24:26) setwindow pcb
+\i (00:24:26) zoom in -2.916 -8.675
+\i (00:24:26) trapsize 38
+\i (00:24:26) zoom in 1 
+\i (00:24:26) setwindow pcb
+\i (00:24:26) zoom in -2.900 -8.674
+\i (00:24:26) trapsize 19
+\i (00:24:28) roam y -96 
+\i (00:24:28) roam y -96
+\i (00:24:28) roam y -96 
+\i (00:24:28) roam y -96
+\i (00:24:28) roam y -96 
+\i (00:24:28) roam y -96
+\i (00:24:29) roam x -96 
+\i (00:24:29) roam x -96
+\i (00:24:34) zoom out 1 
+\i (00:24:34) setwindow pcb
+\i (00:24:34) zoom out -3.719 -7.281
+\i (00:24:34) trapsize 38
+\i (00:24:34) zoom out 1 
+\i (00:24:34) setwindow pcb
+\i (00:24:34) zoom out -3.718 -7.280
+\i (00:24:34) trapsize 76
+\i (00:24:34) roam y -96 
+\i (00:24:34) roam y -96
+\i (00:24:35) roam y -96 
+\i (00:24:35) roam y -96
+\i (00:24:35) roam y -96 
+\i (00:24:35) roam y -96
+\i (00:24:35) roam y -96 
+\i (00:24:35) roam y -96
+\i (00:24:35) roam y -96 
+\i (00:24:35) roam y -96
+\i (00:24:35) roam y -96 
+\i (00:24:35) roam y -96
+\i (00:24:37) new 
+\e (00:24:37) Do you want to save the changes you made to C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.dra?
+\i (00:24:39) fillin no 
+\i (00:24:48) newdrawfillin "pbga256-17.dra" "Package Symbol (Wizard)"
+\t (00:24:48) Starting new design...
+\i (00:24:48) trapsize 317
+\i (00:24:48) trapsize 317
+\i (00:24:48) package symbol wizard 
+\i (00:24:48) generaledit 
+\i (00:24:50) setwindow form.sym_wizard
+\i (00:24:50) FORM sym_wizard bga YES 
+\i (00:24:50) FORM sym_wizard wiz_next  
+\i (00:24:52) FORM sym_wizard load_template  
+\t (00:24:52) Opening existing design...
+\i (00:24:52) fillin yes 
+\t (00:24:52) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:24:52) setwindow pcb
+\i (00:24:52) trapsize 211
+\d (00:24:52) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:24:53) setwindow form.sym_wizard
+\i (00:24:53) FORM sym_wizard wiz_next  
+\i (00:24:54) FORM sym_wizard pack_units Millimeter 
+\i (00:24:55) FORM sym_wizard pack_units_create Millimeter 
+\i (00:24:56) FORM sym_wizard wiz_next  
+\i (00:24:58) FORM sym_wizard bga_md 16 
+\i (00:24:59) FORM sym_wizard bga_me 16 
+\i (00:24:59) FORM sym_wizard wiz_next  
+\i (00:25:01) FORM sym_wizard pin_numbering_field Number Left Letter Down 
+\i (00:25:03) FORM sym_wizard wiz_next  
+\i (00:25:05) FORM sym_wizard pga_ev 1.000 
+\i (00:25:06) FORM sym_wizard pga_eh 1.000 
+\i (00:25:07) FORM sym_wizard pga_width 17.000 
+\i (00:25:08) FORM sym_wizard pga_len 17.000 
+\i (00:25:08) FORM sym_wizard wiz_next  
+\i (00:25:09) FORM sym_wizard default_pad_browse  
+\i (00:28:29) fillin "Smd50rec19"
+\i (00:28:30) FORM sym_wizard wiz_next  
+\i (00:28:31) FORM sym_wizard wiz_next  
+\i (00:28:34) FORM sym_wizard wiz_back  
+\i (00:28:35) FORM sym_wizard wiz_back  
+\i (00:28:36) FORM sym_wizard default_pad_browse  
+\i (00:28:54) fillin "Smd32_17"
+\i (00:28:55) FORM sym_wizard wiz_next  
+\i (00:28:56) FORM sym_wizard wiz_back  
+\i (00:28:58) FORM sym_wizard pin1_pad_browse  
+\t (00:29:01) No valid name selected.
+\t (00:29:06) No valid name selected.
+\i (00:29:13) fillin "Smd32_17"
+\i (00:29:15) FORM sym_wizard wiz_next  
+\i (00:29:16) FORM sym_wizard wiz_next  
+\i (00:29:16) FORM sym_wizard wiz_finish  
+\w (00:29:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:29:16) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:29:16) setwindow pcb
+\i (00:29:16) trapsize 5371
+\t (00:29:16) Performing DRC...
+\t (00:29:16) No DRC errors detected.
+\w (00:29:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:29:16) trapsize 5371
+\i (00:29:16) trapsize 758
+\i (00:29:16) trapsize 152
+\i (00:29:16) trapsize 152
+\i (00:29:21) fillin yes 
+\i (00:29:23) fillin yes 
+\t (00:29:23) Creating package symbol 'C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.psm'.
+\t (00:29:23) Starting Create symbol...
+\i (00:29:24) generaledit 
+\i (00:29:26) zoom in 1 
+\i (00:29:26) setwindow pcb
+\i (00:29:26) zoom in 7.156 1.209
+\i (00:29:26) trapsize 76
+\i (00:29:28) zoom in 1 
+\i (00:29:28) setwindow pcb
+\i (00:29:28) zoom in 7.263 1.740
+\i (00:29:28) trapsize 38
+\i (00:29:28) zoom in 1 
+\i (00:29:28) setwindow pcb
+\i (00:29:28) zoom in 7.263 1.741
+\i (00:29:28) trapsize 19
+\i (00:29:30) pick grid 6.949 1.820
+\t (00:29:30) last pick:  7.620 2.540
+\i (00:29:30) pick grid 7.078 1.820
+\t (00:29:30) last pick:  7.620 2.540
+\i (00:29:31) pick grid 9.083 1.813
+\t (00:29:31) last pick:  10.160 2.540
+\i (00:29:39) zoom out 1 
+\i (00:29:39) setwindow pcb
+\i (00:29:39) zoom out 6.744 1.783
+\i (00:29:39) trapsize 38
+\i (00:29:39) zoom out 1 
+\i (00:29:39) setwindow pcb
+\i (00:29:39) zoom out 6.752 1.782
+\i (00:29:39) trapsize 76
+\i (00:29:45) roam x -96 
+\i (00:29:45) roam x -96
+\i (00:29:46) roam x -96 
+\i (00:29:46) roam x -96
+\i (00:29:46) roam x -96 
+\i (00:29:46) roam x -96
+\i (00:29:46) roam x -96 
+\i (00:29:46) roam x -96
+\i (00:29:46) roam x -96 
+\i (00:29:46) roam x -96
+\i (00:29:46) roam x -96 
+\i (00:29:46) roam x -96
+\i (00:29:47) zoom out 1 
+\i (00:29:47) setwindow pcb
+\i (00:29:47) zoom out -3.468 2.207
+\i (00:29:47) trapsize 152
+\i (00:29:47) roam y -96 
+\i (00:29:47) roam y -96
+\i (00:29:57) zoom in 1 
+\i (00:29:57) setwindow pcb
+\i (00:29:57) zoom in -3.135 7.619
+\i (00:29:57) trapsize 76
+\i (00:30:09) replace padstack 
+\i (00:30:17) setwindow form.mini
+\i (00:30:17) FORM mini oldname_browse  
+\i (00:30:19) fillin "Smd32_17"
+\i (00:30:20) FORM mini newname_browse  
+\i (00:31:17) fillin "menu_cancel"
+\i (00:31:24) setwindow pcb
+\i (00:31:24) padeditdb 
+\i (00:31:26) setwindow form.mini
+\i (00:31:26) FORM mini padlist SMD32_17 
+\i (00:31:35) FORM mini padlist SMD32_17 
+\i (00:31:35) FORMDBLCLK mini padlist SMD32_17 
+\i (00:31:38) setwindow form.padedit
+\i (00:31:38) FORM padedit layers  
+\i (00:31:43) FORM padedit grid row top 
+\i (00:31:50) FORM padedit grid rpopup top Paste 
+\e (00:31:50) No layer was selected to paste.
+\i (00:31:54) FORM padedit parameters  
+\i (00:32:20) pse_exit
+\i (00:32:23) setwindow pcb
+\i (00:32:23) padeditdb 
+\i (00:32:35) padeditlib 
+\i (00:32:37) fillin "menu_cancel"
+\i (00:32:39) fillin no 
+\i (00:32:40) fillin "menu_cancel"
+\i (00:32:42) fillin yes 
+\i (00:32:43) generaledit 
+\i (00:33:25) padeditlib 
+\i (00:33:26) fillin "menu_cancel"
+\i (00:33:27) fillin yes 
+\i (00:33:27) generaledit 
+\i (00:33:29) padeditlib 
+\i (00:33:30) fillin "menu_cancel"
+\i (00:33:31) fillin yes 
+\i (00:33:31) generaledit 
+\i (00:33:33) padeditdb 
+\i (00:33:43) setwindow form.mini
+\i (00:33:43) FORM mini pad_stack_edit  
+\i (00:33:52) setwindow pcb
+\i (00:33:52) artwork 
+\i (00:33:54) setwindow form.film_control
+\i (00:33:54) FORM film_control cancel  
+\i (00:33:54) setwindow pcb
+\i (00:33:54) generaledit 
+\i (00:33:55) dbdoctor 
+\i (00:33:56) setwindow form.dbdoctor_allegro
+\i (00:33:56) FORM dbdoctor_allegro close  
+\i (00:33:56) setwindow pcb
+\i (00:33:56) generaledit 
+\i (00:34:11) replace padstack 
+\i (00:34:12) setwindow form.mini
+\i (00:34:12) FORM mini oldname_browse  
+\i (00:34:16) fillin "menu_cancel"
+\i (00:34:44) setwindow pcb
+\i (00:34:44) multpadedit 
+\i (00:34:48) padeditdb 
+\i (00:34:50) setwindow form.mini
+\i (00:34:50) FORM mini padlist SMD32_17 
+\i (00:34:50) FORMDBLCLK mini padlist SMD32_17 
+\i (00:34:58) setwindow form.padedit
+\i (00:34:58) FORM padedit is_multi_drill YES 
+\i (00:34:59) FORM padedit is_multi_drill NO 
+\i (00:35:05) FORM padedit layers  
+\i (00:35:07) FORM padedit grid row top 
+\i (00:35:08) FORM padedit grid row soldermask_top 
+\i (00:35:09) FORM padedit grid row top 
+\i (00:35:16) FORM padedit geometry Circle 
+\i (00:35:20) FORM padedit parameters  
+\i (00:35:21) FORM padedit layers  
+\i (00:35:28) FORM padedit grid row soldermask_top 
+\i (00:35:28) FORM padedit grid row top 
+\i (00:35:30) FORM padedit grid rpopup top Copy 
+\i (00:35:31) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:35:34) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:35:38) FORM padedit grid rpopup pastemask_top Copy 
+\i (00:35:40) FORM padedit grid rpopup soldermask_bottom Copy 
+\i (00:35:42) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:35:43) FORM padedit grid rpopup pastemask_bottom Paste 
+\i (00:35:47) FORM padedit parameters  
+\i (00:35:55) pse_save_as 
+\i (00:36:01) fillin "smd32_17.pad"
+\i (00:36:04) FORM padedit layers  
+\i (00:36:05) FORM padedit parameters  
+\i (00:36:07) pse_update 
+\i (00:36:10) pse_exit
+\i (00:36:18) setwindow pcb
+\i (00:36:18) zoom out 1 
+\i (00:36:18) setwindow pcb
+\i (00:36:18) zoom out 7.010 7.544
+\i (00:36:18) trapsize 152
+\i (00:36:18) zoom out 1 
+\i (00:36:18) setwindow pcb
+\i (00:36:18) zoom out 7.011 7.543
+\i (00:36:18) trapsize 317
+\i (00:36:18) zoom in 1 
+\i (00:36:18) setwindow pcb
+\i (00:36:18) zoom in 13.421 9.769
+\i (00:36:18) trapsize 159
+\i (00:36:20) zoom out 1 
+\i (00:36:20) setwindow pcb
+\i (00:36:20) zoom out 13.534 0.667
+\i (00:36:20) trapsize 317
+\i (00:36:20) zoom in 1 
+\i (00:36:20) setwindow pcb
+\i (00:36:20) zoom in 22.682 -6.280
+\i (00:36:20) trapsize 159
+\i (00:36:21) zoom in 1 
+\i (00:36:21) setwindow pcb
+\i (00:36:21) zoom in -0.992 -1.015
+\i (00:36:21) trapsize 79
+\i (00:36:22) zoom out 1 
+\i (00:36:22) setwindow pcb
+\i (00:36:22) zoom out -0.596 -0.856
+\i (00:36:22) trapsize 159
+\i (00:37:17) zoom in 1 
+\i (00:37:17) setwindow pcb
+\i (00:37:17) zoom in -0.754 -0.444
+\i (00:37:17) trapsize 79
+\i (00:38:18) zoom out 1 
+\i (00:38:18) setwindow pcb
+\i (00:38:18) zoom out -1.261 -2.822
+\i (00:38:18) trapsize 159
+\i (00:38:19) zoom in 1 
+\i (00:38:19) setwindow pcb
+\i (00:38:19) zoom in 4.780 -2.252
+\i (00:38:19) trapsize 79
+\i (00:38:23) zoom out 1 
+\i (00:38:23) setwindow pcb
+\i (00:38:23) zoom out 3.971 0.317
+\i (00:38:23) trapsize 159
+\i (00:38:24) zoom in 1 
+\i (00:38:24) setwindow pcb
+\i (00:38:24) zoom in -0.802 0.571
+\i (00:38:24) trapsize 79
+\i (00:38:26) zoom out 1 
+\i (00:38:26) setwindow pcb
+\i (00:38:26) zoom out 4.177 -0.999
+\i (00:38:26) trapsize 159
+\i (00:38:34) trapsize 409
+\i (00:38:40) pick grid 14.698 1.449
+\t (00:38:40) last pick:  15.240 2.540
+\i (00:38:40) zoom in 1 
+\i (00:38:40) setwindow pcb
+\i (00:38:40) zoom in 6.026 3.003
+\i (00:38:40) trapsize 205
+\i (00:38:42) roam x -96 
+\i (00:38:42) roam x -96
+\i (00:38:42) roam x -96 
+\i (00:38:42) roam x -96
+\i (00:38:43) roam x 96 
+\i (00:38:43) roam x 96
+\i (00:38:57) zoom in 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom in 0.645 -1.905
+\i (00:38:57) trapsize 102
+\i (00:38:57) zoom in 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom in 0.646 -1.905
+\i (00:38:57) trapsize 51
+\i (00:38:57) zoom in 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom in 0.646 -1.905
+\i (00:38:57) trapsize 26
+\i (00:38:57) zoom in 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom in 0.646 -1.904
+\i (00:38:57) trapsize 13
+\i (00:38:57) zoom out 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom out 0.388 -1.817
+\i (00:38:57) trapsize 26
+\i (00:38:57) zoom out 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom out 0.194 -1.777
+\i (00:38:57) trapsize 51
+\i (00:38:57) zoom out 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom out 0.163 -1.766
+\i (00:38:57) trapsize 102
+\i (00:38:57) zoom out 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom out 0.162 -1.766
+\i (00:38:57) trapsize 205
+\i (00:38:58) zoom out 1 
+\i (00:38:58) setwindow pcb
+\i (00:38:58) zoom out 4.010 -2.954
+\i (00:38:58) trapsize 409
+\i (00:38:58) zoom out 1 
+\i (00:38:58) setwindow pcb
+\i (00:38:58) zoom out 4.092 -5.688
+\i (00:38:58) trapsize 509
+\i (00:38:58) zoom out 1 
+\i (00:38:58) setwindow pcb
+\i (00:38:58) zoom out -2.090 -13.266
+\i (00:38:58) trapsize 509
+\i (00:39:01) zoom in 1 
+\i (00:39:01) setwindow pcb
+\i (00:39:01) zoom in -1.683 1.895
+\i (00:39:01) trapsize 254
+\i (00:39:02) zoom in 1 
+\i (00:39:02) setwindow pcb
+\i (00:39:02) zoom in -1.072 0.751
+\i (00:39:02) trapsize 127
+\i (00:39:03) zoom out 1 
+\i (00:39:03) setwindow pcb
+\i (00:39:03) zoom out -0.537 0.751
+\i (00:39:03) trapsize 254
+\i (00:39:05) save 
+\t (00:39:05) DRC Required please wait...
+\t (00:39:05) Performing DRC...
+\t (00:39:05) No DRC errors detected.
+\i (00:39:06) fillin yes 
+\t (00:39:07) Symbol 'pbga256-17.psm' created.
+\i (00:39:07) generaledit 
+\i (00:39:18) zoom in 1 
+\i (00:39:18) setwindow pcb
+\i (00:39:18) zoom in 1.803 4.720
+\i (00:39:18) trapsize 127
+\i (00:39:18) zoom in 1 
+\i (00:39:18) setwindow pcb
+\i (00:39:18) zoom in 2.668 4.695
+\i (00:39:18) trapsize 64
+\i (00:39:19) zoom in 1 
+\i (00:39:19) setwindow pcb
+\i (00:39:19) zoom in 2.694 4.682
+\i (00:39:19) trapsize 32
+\i (00:39:25) zoom out 1 
+\i (00:39:25) setwindow pcb
+\i (00:39:25) zoom out 2.275 4.594
+\i (00:39:25) trapsize 64
+\i (00:39:25) zoom out 1 
+\i (00:39:25) setwindow pcb
+\i (00:39:25) zoom out 2.236 4.593
+\i (00:39:25) trapsize 127
+\i (00:39:26) zoom out 1 
+\i (00:39:26) setwindow pcb
+\i (00:39:26) zoom out -0.282 4.263
+\i (00:39:26) trapsize 254
+\i (00:39:27) zoom in 1 
+\i (00:39:27) setwindow pcb
+\i (00:39:27) zoom in -3.131 6.094
+\i (00:39:27) trapsize 127
+\i (00:39:28) zoom in 1 
+\i (00:39:28) setwindow pcb
+\i (00:39:28) zoom in -3.130 6.095
+\i (00:39:28) trapsize 64
+\i (00:39:29) zoom out 1 
+\i (00:39:29) setwindow pcb
+\i (00:39:29) zoom out -3.130 6.095
+\i (00:39:29) trapsize 127
+\i (00:39:29) zoom out 1 
+\i (00:39:29) setwindow pcb
+\i (00:39:29) zoom out -3.130 6.095
+\i (00:39:29) trapsize 254
+\i (00:39:44) new 
+\i (00:40:12) newdrawfillin "pbga256-27.dra" "Package Symbol (Wizard)"
+\t (00:40:12) Starting new design...
+\i (00:40:12) trapsize 509
+\i (00:40:12) trapsize 509
+\i (00:40:12) package symbol wizard 
+\i (00:40:12) generaledit 
+\i (00:40:14) setwindow form.sym_wizard
+\i (00:40:14) FORM sym_wizard bga YES 
+\i (00:40:14) FORM sym_wizard rca_th YES 
+\i (00:40:15) FORM sym_wizard bga YES 
+\i (00:40:15) FORM sym_wizard plcc YES 
+\i (00:40:15) FORM sym_wizard bga YES 
+\i (00:40:25) FORM sym_wizard wiz_next  
+\i (00:40:27) FORM sym_wizard load_template  
+\t (00:40:27) Opening existing design...
+\i (00:40:27) fillin yes 
+\t (00:40:27) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:40:27) setwindow pcb
+\i (00:40:27) trapsize 356
+\d (00:40:27) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:40:28) setwindow form.sym_wizard
+\i (00:40:28) FORM sym_wizard wiz_next  
+\i (00:40:31) FORM sym_wizard pack_units Millimeter 
+\i (00:40:31) FORM sym_wizard pack_units_create Millimeter 
+\i (00:40:32) FORM sym_wizard wiz_next  
+\i (00:40:36) FORM sym_wizard bga_md 26 
+\i (00:40:40) FORM sym_wizard bga_me 26 
+\i (00:40:40) FORM sym_wizard pin_circumference YES 
+\i (00:40:50) FORM sym_wizard pin_circ_outer_levels 4 
+\i (00:40:51) FORM sym_wizard pin_circ_inner_levels 4 
+\i (00:41:18) FORM sym_wizard pin_circ_inner_levels 0 
+\i (00:41:32) FORM sym_wizard wiz_next  
+\i (00:41:36) FORM sym_wizard pin_numbering_field Number Left Letter Down 
+\i (00:41:37) FORM sym_wizard wiz_next  
+\i (00:42:38) FORM sym_wizard wiz_back  
+\i (00:42:39) FORM sym_wizard wiz_back  
+\i (00:42:57) FORM sym_wizard bga_md 20 
+\i (00:42:58) FORM sym_wizard bga_me 20 
+\i (00:42:58) FORM sym_wizard wiz_next  
+\i (00:43:00) FORM sym_wizard wiz_next  
+\i (00:54:23) FORM sym_wizard cancel  
+\t (00:54:23) Starting new design...
+\i (00:54:23) setwindow pcb
+\i (00:54:23) trapsize 356
+\i (00:54:23) trapsize 337
+\i (00:54:23) trapsize 356
+\i (00:54:23) trapsize 252
+\t (00:54:23) Grids are drawn 800, 800 apart for enhanced viewability.
+\i (00:54:23) trapsize 252
+\i (00:54:23) trapsize 252
+\i (00:54:23) Esc 
+\e (00:54:23) No command active
+\i (00:54:23) generaledit 
+\i (00:54:24) zoom in 1 
+\i (00:54:24) setwindow pcb
+\i (00:54:24) zoom in 22252 25190
+\i (00:54:24) trapsize 126
+\i (00:54:25) zoom in 1 
+\i (00:54:25) setwindow pcb
+\i (00:54:25) zoom in 20691 22446
+\i (00:54:25) trapsize 63
+\i (00:54:25) zoom in 1 
+\i (00:54:25) setwindow pcb
+\i (00:54:25) zoom in 20692 22446
+\i (00:54:25) trapsize 31
+\i (00:54:25) zoom in 1 
+\i (00:54:25) setwindow pcb
+\i (00:54:25) zoom in 20837 22805
+\i (00:54:25) trapsize 16
+\i (00:54:25) zoom out 1 
+\i (00:54:25) setwindow pcb
+\i (00:54:25) zoom out 20840 22805
+\i (00:54:25) trapsize 31
+\i (00:54:25) zoom out 1 
+\i (00:54:25) setwindow pcb
+\i (00:54:25) zoom out 20847 22805
+\i (00:54:25) trapsize 63
+\i (00:54:25) zoom out 1 
+\i (00:54:25) setwindow pcb
+\i (00:54:25) zoom out 20846 22806
+\i (00:54:25) trapsize 126
+\i (00:54:25) zoom out 1 
+\i (00:54:25) setwindow pcb
+\i (00:54:25) zoom out 20897 22806
+\i (00:54:25) trapsize 252
+\i (00:54:58) pick grid 24064 19502
+\t (00:54:58) last pick:  24100 19500
+\i (00:54:59) open 
+\e (00:54:59) Do you want to save the changes you made to pbga256-27?
+\i (00:55:02) fillin no 
+\i (00:55:16) fillin "menu_cancel"
+\i (00:55:16) generaledit 
+\i (00:55:23) new 
+\e (00:55:23) Do you want to save the changes you made to pbga256-27?
+\i (00:55:28) fillin no 
+\i (00:55:35) newdrawfillin "pbga256-17.dra" "Package Symbol (Wizard)"
+\t (00:55:35) Starting new design...
+\i (00:55:35) trapsize 252
+\i (00:55:35) trapsize 242
+\i (00:55:35) trapsize 252
+\i (00:55:35) trapsize 356
+\i (00:55:35) trapsize 356
+\i (00:55:35) trapsize 356
+\i (00:55:35) package symbol wizard 
+\i (00:55:35) generaledit 
+\i (00:55:36) setwindow form.sym_wizard
+\i (00:55:36) FORM sym_wizard plcc YES 
+\i (00:55:37) FORM sym_wizard bga YES 
+\i (00:55:38) FORM sym_wizard wiz_next  
+\i (00:55:38) FORM sym_wizard load_template  
+\t (00:55:38) Opening existing design...
+\i (00:55:39) fillin yes 
+\t (00:55:39) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:55:39) setwindow pcb
+\i (00:55:39) trapsize 356
+\d (00:55:40) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:55:40) setwindow form.sym_wizard
+\i (00:55:40) FORM sym_wizard wiz_next  
+\i (00:55:42) FORM sym_wizard pack_units Millimeter 
+\i (00:55:43) FORM sym_wizard pack_units_create Millimeter 
+\i (00:55:44) FORM sym_wizard wiz_next  
+\i (00:55:45) FORM sym_wizard bga_md 16 
+\i (00:55:47) FORM sym_wizard bga_me 16 
+\i (00:55:47) FORM sym_wizard wiz_next  
+\i (00:55:48) FORM sym_wizard pin_numbering_field Number Left Letter Down 
+\i (00:55:49) FORM sym_wizard wiz_next  
+\i (00:55:51) FORM sym_wizard pga_ev 1.000 
+\i (00:55:52) FORM sym_wizard pga_eh 1.000 
+\i (00:55:52) FORM sym_wizard pga_width 17.000 
+\i (00:55:54) FORM sym_wizard pga_len 17.000 
+\i (00:55:54) FORM sym_wizard wiz_next  
+\i (00:55:55) FORM sym_wizard default_pad_browse  
+\t (00:55:58) No valid name selected.
+\i (00:56:00) fillin "Smd32_17"
+\i (00:56:01) FORM sym_wizard wiz_next  
+\i (00:56:01) FORM sym_wizard wiz_next  
+\i (00:56:02) FORM sym_wizard wiz_finish  
+\w (00:56:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:56:02) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:56:02) setwindow pcb
+\i (00:56:02) trapsize 9042
+\t (00:56:02) Performing DRC...
+\t (00:56:02) No DRC errors detected.
+\i (00:56:02) trapsize 9042
+\i (00:56:02) trapsize 986
+\i (00:56:02) trapsize 197
+\i (00:56:02) trapsize 197
+\i (00:56:03) fillin yes 
+\i (00:56:04) fillin yes 
+\t (00:56:04) Creating package symbol 'C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.psm'.
+\t (00:56:04) Starting Create symbol...
+\i (00:56:05) generaledit 
+\i (00:56:08) padeditdb 
+\i (00:56:09) setwindow form.mini
+\i (00:56:09) FORM mini padlist SMD32_17 
+\i (00:56:09) FORMDBLCLK mini padlist SMD32_17 
+\i (00:56:10) setwindow form.padedit
+\i (00:56:10) FORM padedit layers  
+\i (00:56:12) FORM padedit geometry Rectangle 
+\i (00:56:13) FORM padedit grid row top 
+\i (00:56:13) FORM padedit grid rpopup top 'Copy to all' 
+\i (00:56:14) setwindow form.padcopy
+\i (00:56:14) FORM padcopy pse_copy_done  
+\i (00:56:17) setwindow form.padedit
+\i (00:56:17) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:56:18) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:56:19) FORM padedit grid rpopup top Copy 
+\i (00:56:21) FORM padedit grid rpopup top Insert 
+\e (00:56:21) Cannot add layer here.
+\i (00:56:22) FORM padedit grid rpopup top Copy 
+\i (00:56:23) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:56:25) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:56:26) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:56:27) FORM padedit grid rpopup pastemask_bottom Paste 
+\i (00:56:29) pse_save_as 
+\i (00:56:30) fillin yes 
+\i (00:56:34) fillin "smd32_17.pad"
+\i (00:56:36) pse_update 
+\i (00:56:38) pse_exit
+\i (01:02:11) setwindow pcb
+\i (01:02:11) new 
+\t (01:02:11) DRC Required please wait...
+\t (01:02:11) Performing DRC...
+\t (01:02:11) No DRC errors detected.
+\e (01:02:11) Do you want to save the changes you made to C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.dra?
+\i (01:02:15) fillin yes 
+\t (01:02:15) Symbol 'pbga256-17.psm' created.
+\i (01:02:18) newdrawfillin "menu_cancel"
+\i (01:02:18) generaledit 
+\i (01:02:19) open 
+\i (01:02:21) fillin "menu_cancel"
+\i (01:02:21) generaledit 
+\i (01:02:22) new 
+\i (01:02:31) newdrawfillin "pbga256-17.dra" "Package Symbol (Wizard)"
+\t (01:02:31) Starting new design...
+\i (01:02:31) trapsize 509
+\i (01:02:31) trapsize 509
+\i (01:02:31) package symbol wizard 
+\i (01:02:31) generaledit 
+\i (01:02:32) setwindow form.sym_wizard
+\i (01:02:32) FORM sym_wizard plcc YES 
+\i (01:02:33) FORM sym_wizard bga YES 
+\i (01:02:33) FORM sym_wizard wiz_next  
+\i (01:02:34) FORM sym_wizard load_template  
+\t (01:02:34) Opening existing design...
+\i (01:02:35) fillin yes 
+\t (01:02:35) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (01:02:35) setwindow pcb
+\i (01:02:35) trapsize 356
+\d (01:02:35) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:02:35) setwindow form.sym_wizard
+\i (01:02:35) FORM sym_wizard wiz_next  
+\i (01:02:37) FORM sym_wizard pack_units Millimeter 
+\i (01:02:38) FORM sym_wizard pack_units_create Millimeter 
+\i (01:02:39) FORM sym_wizard wiz_next  
+\i (01:02:41) FORM sym_wizard bga_md 16 
+\i (01:02:42) FORM sym_wizard bga_me 16 
+\i (01:02:42) FORM sym_wizard wiz_next  
+\i (01:02:43) FORM sym_wizard pin_numbering_field Number Left Letter Down 
+\i (01:02:44) FORM sym_wizard wiz_next  
+\i (01:02:45) FORM sym_wizard pga_ev 1.000 
+\i (01:02:46) FORM sym_wizard pga_eh 1.000 
+\i (01:02:48) FORM sym_wizard pga_width 17.000 
+\i (01:02:49) FORM sym_wizard pga_len 17.000 
+\i (01:02:49) FORM sym_wizard wiz_next  
+\i (01:02:50) FORM sym_wizard default_pad_browse  
+\i (01:03:02) fillin "Smd32_17"
+\i (01:03:03) FORM sym_wizard wiz_next  
+\i (01:03:04) FORM sym_wizard wiz_next  
+\i (01:03:06) FORM sym_wizard wiz_finish  
+\w (01:03:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:03:06) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (01:03:06) setwindow pcb
+\i (01:03:06) trapsize 9042
+\t (01:03:06) Performing DRC...
+\t (01:03:06) No DRC errors detected.
+\i (01:03:06) trapsize 9042
+\i (01:03:06) trapsize 986
+\i (01:03:06) trapsize 197
+\i (01:03:06) trapsize 197
+\i (01:03:08) fillin yes 
+\i (01:03:10) fillin yes 
+\t (01:03:10) Creating package symbol 'C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.psm'.
+\t (01:03:10) Starting Create symbol...
+\i (01:03:10) generaledit 
+\i (01:03:11) zoom in 1 
+\i (01:03:11) setwindow pcb
+\i (01:03:11) zoom in -0.096 -0.372
+\i (01:03:11) trapsize 99
+\i (01:03:12) zoom out 1 
+\i (01:03:12) setwindow pcb
+\i (01:03:12) zoom out -0.096 -0.431
+\i (01:03:12) trapsize 197
+\i (01:03:13) zoom in 1 
+\i (01:03:13) setwindow pcb
+\i (01:03:13) zoom in -0.096 -0.353
+\i (01:03:13) trapsize 99
+\i (01:03:13) zoom out 1 
+\i (01:03:13) setwindow pcb
+\i (01:03:13) zoom out -0.096 -0.353
+\i (01:03:13) trapsize 197
+\i (01:03:13) zoom in 1 
+\i (01:03:13) setwindow pcb
+\i (01:03:13) zoom in -0.096 -0.353
+\i (01:03:13) trapsize 99
+\i (01:03:13) zoom in 1 
+\i (01:03:13) setwindow pcb
+\i (01:03:13) zoom in -0.096 -0.353
+\i (01:03:13) trapsize 49
+\i (01:03:14) zoom in 1 
+\i (01:03:14) setwindow pcb
+\i (01:03:14) zoom in -0.096 -0.333
+\i (01:03:14) trapsize 25
+\i (01:03:14) zoom in 1 
+\i (01:03:14) setwindow pcb
+\i (01:03:14) zoom in -0.096 -0.323
+\i (01:03:14) trapsize 12
+\i (01:03:15) zoom out 1 
+\i (01:03:15) setwindow pcb
+\i (01:03:15) zoom out -0.096 -0.323
+\i (01:03:15) trapsize 25
+\i (01:03:15) zoom out 1 
+\i (01:03:15) setwindow pcb
+\i (01:03:15) zoom out -0.096 -0.322
+\i (01:03:15) trapsize 49
+\i (01:03:15) zoom out 1 
+\i (01:03:15) setwindow pcb
+\i (01:03:15) zoom out -0.096 -0.322
+\i (01:03:15) trapsize 99
+\i (01:03:15) zoom out 1 
+\i (01:03:15) setwindow pcb
+\i (01:03:15) zoom out -0.096 -0.323
+\i (01:03:15) trapsize 197
+\i (01:03:15) zoom out 1 
+\i (01:03:15) setwindow pcb
+\i (01:03:15) zoom out -0.096 -0.323
+\i (01:03:15) trapsize 395
+\i (01:03:15) zoom out 1 
+\i (01:03:15) setwindow pcb
+\i (01:03:15) zoom out -0.095 -1.567
+\i (01:03:15) trapsize 509
+\i (01:03:16) zoom in 1 
+\i (01:03:16) setwindow pcb
+\i (01:03:16) zoom in -1.072 -9.399
+\i (01:03:16) trapsize 254
+\i (01:03:16) zoom in 1 
+\i (01:03:16) setwindow pcb
+\i (01:03:16) zoom in -1.072 -2.861
+\i (01:03:16) trapsize 127
+\i (01:03:16) zoom out 1 
+\i (01:03:16) setwindow pcb
+\i (01:03:16) zoom out -1.072 -2.861
+\i (01:03:16) trapsize 254
+\i (01:04:55) trapsize 99
+\i (01:04:59) new 
+\e (01:04:59) Do you want to save the changes you made to C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.dra?
+\i (01:05:02) fillin menu_cancel 
+\i (01:05:02) generaledit 
+\i (01:05:50) new 
+\e (01:05:50) Do you want to save the changes you made to C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.dra?
+\i (01:05:52) fillin no 
+\i (01:05:58) newdrawfillin "pbga256-17.dra" "Package Symbol (Wizard)"
+\t (01:05:58) Starting new design...
+\i (01:05:58) trapsize 317
+\i (01:05:58) trapsize 317
+\i (01:05:58) package symbol wizard 
+\i (01:05:58) generaledit 
+\i (01:05:59) setwindow form.sym_wizard
+\i (01:05:59) FORM sym_wizard bga YES 
+\i (01:06:00) FORM sym_wizard wiz_next  
+\i (01:06:01) FORM sym_wizard load_template  
+\t (01:06:01) Opening existing design...
+\i (01:06:01) fillin yes 
+\t (01:06:01) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:06:01) setwindow pcb
+\i (01:06:01) trapsize 211
+\d (01:06:01) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:06:02) setwindow form.sym_wizard
+\i (01:06:02) FORM sym_wizard wiz_next  
+\i (01:06:03) FORM sym_wizard pack_units Millimeter 
+\i (01:06:04) FORM sym_wizard pack_units_create Micron 
+\i (01:06:05) FORM sym_wizard pack_units_create Millimeter 
+\i (01:06:06) FORM sym_wizard wiz_next  
+\i (01:06:09) FORM sym_wizard bga_md 16 
+\i (01:06:11) FORM sym_wizard bga_me 16 
+\i (01:06:11) FORM sym_wizard wiz_next  
+\i (01:06:15) FORM sym_wizard pin_numbering_field Number Left Letter Down 
+\i (01:06:18) FORM sym_wizard pin_numbering_field Number Right Letter Down 
+\i (01:06:19) FORM sym_wizard wiz_next  
+\i (01:06:21) FORM sym_wizard pga_ev 1.000 
+\i (01:06:21) FORM sym_wizard pga_eh 1.000 
+\i (01:06:22) FORM sym_wizard pga_width 17.200 
+\i (01:06:26) FORM sym_wizard pga_len 17.200 
+\i (01:06:26) FORM sym_wizard wiz_next  
+\i (01:06:28) FORM sym_wizard default_pad_browse  
+\i (01:07:03) fillin "Unnamed"
+\i (01:07:04) FORM sym_wizard wiz_next  
+\i (01:07:07) FORM sym_wizard wiz_next  
+\i (01:07:07) FORM sym_wizard wiz_finish  
+\w (01:07:07) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:07:07) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (01:07:07) setwindow pcb
+\i (01:07:07) trapsize 5371
+\t (01:07:07) Performing DRC...
+\t (01:07:07) No DRC errors detected.
+\i (01:07:07) trapsize 5371
+\i (01:07:07) trapsize 758
+\i (01:07:07) trapsize 152
+\i (01:07:07) trapsize 152
+\i (01:07:09) fillin yes 
+\i (01:07:09) fillin yes 
+\t (01:07:09) Creating package symbol 'C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.psm'.
+\t (01:07:09) Starting Create symbol...
+\i (01:07:10) generaledit 
+\i (01:07:11) zoom in 1 
+\i (01:07:11) setwindow pcb
+\i (01:07:11) zoom in 3.826 1.258
+\i (01:07:11) trapsize 76
+\i (01:07:12) zoom out 1 
+\i (01:07:12) setwindow pcb
+\i (01:07:12) zoom out 4.449 1.016
+\i (01:07:12) trapsize 152
+\i (01:07:13) zoom in 1 
+\i (01:07:13) setwindow pcb
+\i (01:07:13) zoom in -0.314 0.348
+\i (01:07:13) trapsize 76
+\i (01:07:13) zoom out 1 
+\i (01:07:13) setwindow pcb
+\i (01:07:13) zoom out -0.313 0.348
+\i (01:07:13) trapsize 152
+\i (01:07:33) setwindow form.mini
+\i (01:07:33) FORM mini class ETCH 
+\i (01:07:36) FORM mini subclass BOTTOM 
+\i (01:07:36) FORM mini subclass TOP 
+\i (01:07:50) setwindow pcb
+\i (01:07:50) zoom in 1 
+\i (01:07:50) setwindow pcb
+\i (01:07:50) zoom in 31.744 6.353
+\i (01:07:50) trapsize 76
+\i (01:07:51) zoom out 1 
+\i (01:07:51) setwindow pcb
+\i (01:07:51) zoom out 14.548 4.640
+\i (01:07:51) trapsize 152
+\i (01:07:51) zoom out 1 
+\i (01:07:51) setwindow pcb
+\i (01:07:51) zoom out -2.028 4.640
+\i (01:07:51) trapsize 321
+\i (01:07:51) zoom out 1 
+\i (01:07:51) setwindow pcb
+\i (01:07:51) zoom out -3.210 5.070
+\i (01:07:51) trapsize 321
+\i (01:07:51) zoom in 1 
+\i (01:07:51) setwindow pcb
+\i (01:07:51) zoom in -0.065 -0.064
+\i (01:07:51) trapsize 160
+\i (01:07:52) zoom in 1 
+\i (01:07:52) setwindow pcb
+\i (01:07:52) zoom in -3.368 -0.257
+\i (01:07:52) trapsize 80
+\i (01:07:52) zoom out 1 
+\i (01:07:52) setwindow pcb
+\i (01:07:52) zoom out -2.421 0.353
+\i (01:07:52) trapsize 160
+\i (01:07:53) zoom in 1 
+\i (01:07:53) setwindow pcb
+\i (01:07:53) zoom in 1.527 0.867
+\i (01:07:53) trapsize 80
+\i (01:07:54) zoom out 1 
+\i (01:07:54) setwindow pcb
+\i (01:07:54) zoom out 0.067 0.546
+\i (01:07:54) trapsize 160
+\i (01:08:26) replace padstack 
+\i (01:08:28) setwindow form.mini
+\i (01:08:28) FORM mini oldname_browse  
+\i (01:08:30) fillin "menu_cancel"
+\i (01:08:47) setwindow pcb
+\i (01:08:47) exit 
+\e (01:08:47) Do you want to save the changes you made to C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.dra?
+\i (01:08:49) fillin yes 
+\t (01:08:49) Symbol 'pbga256-17.psm' created.
+\t (01:08:49)     Journal end - Wed Jul 17 10:27:05 2019

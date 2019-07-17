@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : pbga256-27.dra                                )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Wed Jul 17 10:33:51 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/exam/pbga_lib
+    Name      = pbga256-27.psm
+    User      = user
+    Machine   = USER-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
