@@ -1,36 +1,163 @@
-\t (00:00:28) allegro 16.6 S034 (v16-6-112CQ) Windows 32
-\t (00:00:28)     Journal start - Wed Jul 17 10:44:31 2019
-\t (00:00:28)         Host=USER-PC User=user Pid=6820 CPUs=4
-\t (00:00:28) CmdLine= allegro.exe -p .
-\t (00:00:28) 
-\d (00:00:28) Design opened: C:/Users/user/Desktop/exam/pbga_lib/pbga256-17.dra
-\i (00:00:28) generaledit 
-\i (00:00:30) open 
-\i (00:00:31) fillin "pbga256-27.dra"
-\t (00:00:31) Opening existing design...
-\i (00:00:31) trapsize 254
-\d (00:00:31) Design opened: C:/Users/user/Desktop/exam/pbga_lib/pbga256-27.dra
-\i (00:00:31) generaledit 
-\i (00:00:33) zoom in 1 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) zoom in -2.675 3.299
-\i (00:00:33) trapsize 127
-\i (00:00:34) zoom out 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom out -2.650 3.299
-\i (00:00:34) trapsize 254
-\i (00:00:34) zoom out 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom out -2.650 3.300
-\i (00:00:34) trapsize 507
-\i (00:00:52) zoom in 1 
-\i (00:00:52) setwindow pcb
-\i (00:00:52) zoom in -19.899 21.415
-\i (00:00:52) trapsize 254
-\i (00:00:52) zoom in 1 
-\i (00:00:52) setwindow pcb
-\i (00:00:52) zoom in -19.899 21.416
-\i (00:00:52) trapsize 127
-\i (00:00:53) new 
-\i (00:01:20) newdrawfillin "route1.brd" "Board"
-\t (00:01:20)     Journal end - Wed Jul 17 10:45:23 2019
+\t (00:53:26) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:53:26)     Journal start - Wed Jul 17 11:37:29 2019
+\t (00:53:26)         Host=USER-PC User=user Pid=6820 CPUs=4
+\t (00:53:26) CmdLine= allegro.exe -p .
+\t (00:53:26) 
+\t (00:53:26) Starting new design...
+\i (00:53:26) trapsize 552
+\i (00:53:26) trapsize 531
+\i (00:53:26) trapsize 541
+\i (00:53:26) trapsize 552
+\i (00:53:26) trapsize 781
+\i (00:53:27) trapsize 781
+\i (00:53:27) trapsize 781
+\i (00:53:27) package symbol wizard 
+\i (00:53:27) generaledit 
+   (00:53:28) Loading cmds.cxt 
+   (00:53:28) Loading axlcore.cxt 
+\i (00:53:28) setwindow form.sym_wizard
+\i (00:53:28) FORM sym_wizard soic YES 
+\i (00:53:28) FORM sym_wizard plcc YES 
+\i (00:53:29) FORM sym_wizard wiz_next  
+\i (00:53:30) FORM sym_wizard load_template  
+\t (00:53:30) Opening existing design...
+\i (00:53:31) fillin yes 
+\t (00:53:31) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:53:31) setwindow pcb
+\i (00:53:31) trapsize 356
+\d (00:53:31) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:53:32) setwindow form.sym_wizard
+\i (00:53:32) FORM sym_wizard wiz_next  
+\i (00:53:34) FORM sym_wizard pack_units Millimeter 
+\i (00:53:35) FORM sym_wizard pack_units_create Millimeter 
+\i (00:53:36) FORM sym_wizard wiz_next  
+\i (00:53:53) FORM sym_wizard qfp_pin_count_v 16 
+\i (00:53:55) FORM sym_wizard qfp_pin_count_h 16 
+\i (00:53:55) FORM sym_wizard qfp_pin1_corner YES 
+\i (00:53:56) FORM sym_wizard wiz_next  
+\i (00:54:04) FORM sym_wizard qfp_e1 16.250 
+\i (00:54:06) FORM sym_wizard qfp_e2 16.250 
+\i (00:54:11) FORM sym_wizard qfp_width 14.100 
+\i (00:54:13) FORM sym_wizard qfp_len 14.100 
+\i (00:54:13) FORM sym_wizard wiz_next  
+\i (00:54:15) FORM sym_wizard default_pad_browse  
+\i (00:54:23) fillin "Atmega2560"
+\i (00:54:24) FORM sym_wizard wiz_next  
+\i (00:54:25) FORM sym_wizard wiz_next  
+\i (00:54:25) FORM sym_wizard wiz_finish  
+\w (00:54:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:54:25) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:54:25) setwindow pcb
+\i (00:54:25) trapsize 9042
+\t (00:54:25) Performing DRC...
+\t (00:54:25) No DRC errors detected.
+\i (00:54:25) trapsize 9042
+\i (00:54:25) trapsize 986
+\i (00:54:25) trapsize 263
+\i (00:54:25) trapsize 263
+\t (00:54:26) Creating package symbol 'C:/Users/user/Desktop/exam/pbga_lib/atmega2560.psm'.
+\t (00:54:26) Starting Create symbol...
+\i (00:54:26) generaledit 
+\i (00:54:27) zoom in 1 
+\i (00:54:27) setwindow pcb
+\i (00:54:27) zoom in 1.497 -0.239
+\i (00:54:27) trapsize 132
+\i (00:54:28) zoom in 1 
+\i (00:54:28) setwindow pcb
+\i (00:54:28) zoom in 5.206 -6.946
+\i (00:54:28) trapsize 66
+\i (00:54:29) zoom out 1 
+\i (00:54:29) setwindow pcb
+\i (00:54:29) zoom out 5.365 -6.959
+\i (00:54:29) trapsize 132
+\i (00:54:35) zoom out 1 
+\i (00:54:35) setwindow pcb
+\i (00:54:35) zoom out 0.603 -5.722
+\i (00:54:35) trapsize 263
+\i (00:54:36) zoom in 1 
+\i (00:54:36) setwindow pcb
+\i (00:54:36) zoom in -4.027 1.695
+\i (00:54:36) trapsize 132
+\i (00:54:40) zoom in 1 
+\i (00:54:40) setwindow pcb
+\i (00:54:40) zoom in -8.235 1.880
+\i (00:54:40) trapsize 66
+\i (00:54:40) zoom in 1 
+\i (00:54:40) setwindow pcb
+\i (00:54:40) zoom in -7.919 1.788
+\i (00:54:40) trapsize 33
+\i (00:54:42) roam x -96 
+\i (00:54:42) roam x -96
+\i (00:54:42) roam x -96 
+\i (00:54:42) roam x -96
+\i (00:54:42) roam x -96 
+\i (00:54:42) roam x -96
+\i (00:54:43) zoom out 1 
+\i (00:54:43) setwindow pcb
+\i (00:54:43) zoom out -7.851 1.518
+\i (00:54:43) trapsize 66
+\i (00:54:43) zoom out 1 
+\i (00:54:43) setwindow pcb
+\i (00:54:43) zoom out -7.851 1.519
+\i (00:54:43) trapsize 132
+\i (00:54:45) roam x 96 
+\i (00:54:45) roam x 96
+\i (00:54:45) roam x 96 
+\i (00:54:45) roam x 96
+\i (00:54:45) roam x 96 
+\i (00:54:45) roam x 96
+\i (00:54:46) roam x 96 
+\i (00:54:46) roam x 96
+\i (00:54:47) zoom out 1 
+\i (00:54:47) setwindow pcb
+\i (00:54:47) zoom out 0.336 2.412
+\i (00:54:47) trapsize 263
+\i (00:54:49) zoom in 1 
+\i (00:54:49) setwindow pcb
+\i (00:54:49) zoom in -3.505 -3.690
+\i (00:54:49) trapsize 132
+\i (00:58:49) exit 
+\e (00:58:49) Do you want to save the changes you made to C:/Users/user/Desktop/exam/pbga_lib/atmega2560.dra?
+\i (00:58:50) fillin menu_cancel 
+\i (00:58:50) generaledit 
+\i (00:58:55) trapsize 51
+\i (00:58:59) zoom in 1 
+\i (00:58:59) setwindow pcb
+\i (00:58:59) zoom in -6.324 -7.014
+\i (00:58:59) trapsize 25
+\i (00:58:59) zoom out 1 
+\i (00:58:59) setwindow pcb
+\i (00:58:59) zoom out -6.181 -6.810
+\i (00:58:59) trapsize 51
+\i (00:58:59) zoom out 1 
+\i (00:58:59) setwindow pcb
+\i (00:58:59) zoom out -6.182 -6.799
+\i (00:58:59) trapsize 102
+\i (00:58:59) zoom out 1 
+\i (00:58:59) setwindow pcb
+\i (00:58:59) zoom out -6.181 -6.799
+\i (00:58:59) trapsize 204
+\i (00:59:01) zoom in 1 
+\i (00:59:01) setwindow pcb
+\i (00:59:01) zoom in -5.931 -6.106
+\i (00:59:01) trapsize 102
+\i (00:59:02) zoom in 1 
+\i (00:59:02) setwindow pcb
+\i (00:59:02) zoom in -6.135 -7.554
+\i (00:59:02) trapsize 51
+\i (00:59:44) save 
+\i (00:59:47) fillin yes 
+\t (00:59:47) Symbol 'atmega2560.psm' created.
+\i (00:59:47) generaledit 
+\i (00:59:52) enved 
+\i (00:59:52) generaledit 
+\i (00:59:53) setwindow form.prfedit
+\i (00:59:53) FORM prfedit treelist  Paths 
+\i (00:59:55) FORM prfedit treelist  Signoise Paths 
+\i (00:59:55) FORM prfedit treelist  Library Paths 
+\i (00:59:56) FORM prfedit padpath  
+\i (00:59:58) FORM prfedit psmpath  
+\i (01:00:00) FORM prfedit cancel  
+\i (01:00:01) setwindow pcb
+\i (01:00:01) exit 
+\t (01:00:04)     Journal end - Wed Jul 17 11:44:06 2019
